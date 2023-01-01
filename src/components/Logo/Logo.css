@@ -1,0 +1,11 @@
+.Tilt {
+    background: linear-gradient(89deg, #0F2027 35%, #2C5364 100%);
+}
+
+.Tilt-inner {
+    text-align: center;
+}
+
+img {
+    padding-top: 5px;
+}
